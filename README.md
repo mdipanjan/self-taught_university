@@ -2,6 +2,7 @@
 
 #  A self-taught's guide to learn Computer science Topics
 
+## ToDo List
 ## 1.  Data structures
 
 - [ ] arrays
@@ -56,11 +57,12 @@
 ## 3. Projects 
 ## 4. Database
 ## 5. Networking
+
 ## 6. Machine learning
 ## 7. Languages & Technologies
 - JavaScript
   - [ ] Basics of Javascript
-  - [ ] Bbject Oriented Javascript
+  - [ ] Object Oriented Javascript
 - Python
   - [ ] Basics of Python
   - [ ] Object Oriented Python
@@ -68,3 +70,33 @@
 - React Native
 - Nodejs
 ## 8. Practice
+
+
+
+# Resources
+
+## 1. Data structures and Algorithms resources
+
+- [ Mycodeschool (Video)](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+- [geeksforgeeks DS](https://www.geeksforgeeks.org/data-structures/)
+- [geeksforgeeks Algo](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+- [MIT Introduction to Algorithms ](https://courses.csail.mit.edu/6.006/fall11/notes.shtml)
+
+
+## 2. Database
+- [Introduction to Databases (Stanford Online)](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+- [Database Design by Caleb Curry ( youtube )](https://www.youtube.com/watch?v=h0j0QN2b57M&list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID)
+
+## 3. Networking
+- [ The Bits and Bytes of Computer Networking (Coursera)
+](https://www.coursera.org/learn/computer-networking)
+
+## 4. Machine Learning
+- [Introduction to Machine Learning (Google)
+](https://developers.google.com/machine-learning/crash-course/ml-intro)
+- [Introduction to Machine Learning for Coders(FastAI)](http://course18.fast.ai/ml)
+- [Practical Deep Learning for Coders, v3 (fastai)
+](https://course.fast.ai/)
+- [Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning?)
+- [CS109 Data Science (Harvard University)
+](http://cs109.github.io/2015/)
