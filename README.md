@@ -55,6 +55,9 @@
 - ### Dynamic programming
   
 ## 3. Projects 
+- ___________
+- ___________
+- ___________
 ## 4. Database
 ## 5. Networking
 
@@ -70,6 +73,7 @@
 - React Native
 - Nodejs
 ## 8. Practice
+## 9. Mathematics and Statistics for ML and CS
 
 
 
@@ -79,6 +83,8 @@
 
 - [ Mycodeschool (Video)](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 - [geeksforgeeks DS](https://www.geeksforgeeks.org/data-structures/)
+- [Data Structures Fundamentals
+(coursera)](https://www.edx.org/course/data-structures-fundamentals)
 - [geeksforgeeks Algo](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 - [MIT Introduction to Algorithms ](https://courses.csail.mit.edu/6.006/fall11/notes.shtml)
 
@@ -90,6 +96,8 @@
 ## 3. Networking
 - [ The Bits and Bytes of Computer Networking (Coursera)
 ](https://www.coursera.org/learn/computer-networking)
+- [Introduction to Computer Networking
+](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
 ## 4. Machine Learning
 - [Introduction to Machine Learning (Google)
@@ -100,3 +108,4 @@
 - [Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning?)
 - [CS109 Data Science (Harvard University)
 ](http://cs109.github.io/2015/)
+
