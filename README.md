@@ -1,6 +1,6 @@
 
 
-#  A self-taught's guide to learn Computer science
+#  A self-taught's guide to learn Computer science Topics
 
 ## 1.  Data structures
 
