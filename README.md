@@ -2,6 +2,8 @@
 
 #  A self-taught's guide to learn Computer science Topics
 
+
+
 ## ToDo List
 ## 1.  Data structures
 
@@ -70,10 +72,35 @@
   - [ ] Basics of Python
   - [ ] Object Oriented Python
 - Reactjs
+  - [ ] React basics
+  - [ ] React Router
+  - [ ] Redux
 - React Native
 - Nodejs
 ## 8. Practice
 ## 9. Mathematics and Statistics for ML and CS
+
+___
+___
+
+## Duration : 6 months (1st October 2019 To 31st March 2019)
+
+## Topic schedule
+Time Period | Topics | Priority 1 | Priority 2 | Projects|
+------------|---------|------------|-----------|---------|
+October  | DSA(l), ML |   DSA(l) |  ML
+November | DSA(l), ML , Networking|
+December | DSA(p), ML ,DB 
+January | 
+February | 
+March | 
+
+
+## Time 
+Days | Time-1 |   Time-2 | 
+------------|---------|------------
+Mon - Fri  | 9pm - 12am |  5am - 8:30am|
+Sat - Sun |
 
 
 
