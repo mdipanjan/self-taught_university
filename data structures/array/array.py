@@ -9,6 +9,7 @@ def array_practice():
     arr.pop(0)
     # remove specified element passed as element
     arr.remove(7)
-    
+    # reverse the array
+    arr.reverse()
     print(arr)
 array_practice()
