@@ -37,3 +37,29 @@ function createCar(name, color){
     }
 }
 const car = new createCar('BMW', 'White');
+
+//add methods to the object
+car.newMethod = function(){
+    console.log('this is new method')
+}
+console.log(car);
+
+//delete methods to the object
+
+delete car.newMethod
+console.log(car)
+
+//Eneumerating properties of an object
+
+for (let key in car){
+    console.log(key, car[key])
+}
+
+//we can type check the property if method or not
+
+for (let key in car){
+    if(typeof car[key] == 'function'){
+        console.log(key, car[key])
+    }
+    
+}
