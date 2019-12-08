@@ -23,9 +23,9 @@
   - [ ]  Binary search
   - [ ]  Ternary search
 - ### sorting
-  - [ ]  Bubble sort
-  - [ ]  Selection sort
-  - [ ]  Insertion sort
+  - [x]  Bubble sort
+  - [x]  Selection sort
+  - [x]  Insertion sort
   - [ ]  Merge sort
   - [ ]  Quick sort
   - [ ]  Counting sort
