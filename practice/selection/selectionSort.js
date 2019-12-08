@@ -1,7 +1,7 @@
 // arrBckup = [112,45,89,78,65,35,85,69,25,250,47,38,96,125,254,190,110,50,300,5,14,29,61,33,98,29];
 arr = [312,45,89,78,65,35,85,69,25,250,47,38,96,125,254,190,110,50,300,5,14,29,61,33,98,29];
 let box = document.querySelector('.box');
-let interval;
+let interval = 500;
 
 
 function selectionSort(a){
@@ -19,9 +19,10 @@ function selectionSort(a){
                 a[i] = a[min];
                 a[min] = temp;
             }
-            // console.log(arr)
+            
             drawLines(arr);
-        }, i*1000 );
+
+        }, i*interval );
 
     }
     
@@ -44,7 +45,7 @@ let sortReset = document.querySelector('.sort-reset');
 
 
 function drawLines(elem){
-   
+    
     let box = document.querySelector('.box');
     let data = '';
     for(var i=0; i < elem.length; i++){
@@ -69,4 +70,6 @@ slider.oninput = function() {
     slider.setAttribute('value', this.value);
     interval = slider.getAttribute('value');
     output.innerHTML = this.value;
+    interval =  parseInt(interval*1000);
+    console.log(interval)
 }
